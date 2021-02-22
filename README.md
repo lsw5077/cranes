@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/339941060.svg)](https://zenodo.org/badge/latestdoi/339941060)
+
 # Welcome to our crane app!
 
 This app displays variation in sandhill crane distribution over seasons and years. If you wish to view the app online, it is accessible here:
