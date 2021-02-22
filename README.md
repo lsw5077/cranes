@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/339941060.svg)](https://zenodo.org/badge/latestdoi/339941060)
 
 # Welcome to our crane app!
 
